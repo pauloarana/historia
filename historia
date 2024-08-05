@@ -27,6 +27,44 @@ Pergunta 5: Quais críticas têm sido levantadas contra a Lei das Fake News?
 Ponto de Vista 1 (A favor): As críticas levantadas contra a Lei das Fake News muitas vezes refletem preocupações legítimas sobre o equilíbrio entre liberdade de expressão e responsabilidade online. No entanto, é importante reconhecer que a legislação é um passo necessário para combater a desinformação prejudicial que pode ameaçar a coesão social e a democracia.
 
 Ponto de Vista 2 (Crítico): As críticas contra a Lei das Fake News destacam falhas na implementação, potenciais abusos de poder e impactos negativos na liberdade de expressão. Argumenta-se que a legislação pode ser utilizada de forma seletiva para reprimir oposições políticas e vozes dissidentes, enfraquecendo assim os princípios democráticos fundamentais.
+DOCTYPE html>
 
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale-1.0">
+
+<link rel="stylesheet" href="style.css">
+
+<title>Você decide o futuro da IA</title>
+
+</head>
+
+<body>
+
+<div class="caixa-principal">
+
+<h1>Você decide o futuro da IA</h1>
+
+<div class="caixa-perguntas"></div>
+
+<div class="caixa-alternativas"></div>
+
+<div class="caixa-resultado">
+
+<p class="texto-resultado"></p>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
 
 
