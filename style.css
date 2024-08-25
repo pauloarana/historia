@@ -26,4 +26,19 @@ body{
 
 h1{
     color: var( --cor-destaque)
-} b
+} 
+
+button  {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-fundo);
+    border: nome;
+    border-radius: 15px;
+    padding: 15px;
+    transitation: background-color 0.3s;
+}
+
+button:hover{
+    background-color: var(--cor-destaque);
+    color: var(--cor-principal);
+}
+    
